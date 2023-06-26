@@ -4,4 +4,3 @@ A machine learning model for a road classification service.
 
 # Creating the container image
 
-Let's go
